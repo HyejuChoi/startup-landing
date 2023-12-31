@@ -1,2 +1,2 @@
 # startup-landing
-Startup Landing Page
+https://hyejuchoi.github.io/startup-landing/
